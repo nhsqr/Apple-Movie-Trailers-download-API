@@ -1,4 +1,4 @@
-# Apple-Movie-Trailers-download-API
+# Apple Movie Trailers download API
 Download Apple movie trailers directly from command line (BASH)
 
 This is a very simple script for downloading movie trailers from Apple servers
